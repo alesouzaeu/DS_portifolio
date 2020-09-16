@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa804568-0a15-4f6b-8a01-a93ee40c5100" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1hSgMuPHStDX4w1luE9cNQV6GxA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Deploy/Template" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\DS_portfolio\Classificação\Projeto - Happiness Report 2015-2019\Deploy\Template" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\GitHub\DS_portfolio\Classificação\Projeto - Happiness Report 2015-2019\Deploy\Template" />
+      <recent name="D:\Documents\GitHub\DS_portfolio\Classificação\Projeto - Happiness Report 2015-2019\Deploy\static\css" />
+      <recent name="D:\Documents\GitHub\DS_portfolio\Classificação\Projeto - Happiness Report 2015-2019\Deploy" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa804568-0a15-4f6b-8a01-a93ee40c5100" name="Default Changelist" comment="" />
+      <created>1600009862654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600009862654</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="688" y="396" key="FileChooserDialogImpl" timestamp="1600019901087">
+      <screen x="0" y="0" width="2731" height="1400" />
+    </state>
+    <state x="688" y="396" key="FileChooserDialogImpl/-1920.0.1920.1020/0.0.2731.1400@0.0.2731.1400" timestamp="1600019901087" />
+    <state x="78" y="251" key="SettingsEditor" timestamp="1600010939170">
+      <screen x="0" y="0" width="2731" height="1400" />
+    </state>
+    <state x="78" y="251" key="SettingsEditor/-1920.0.1920.1020/0.0.2731.1400@0.0.2731.1400" timestamp="1600010939170" />
+    <state x="93" y="93" width="2545" height="1215" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1600014180352">
+      <screen x="0" y="0" width="2731" height="1400" />
+    </state>
+    <state x="93" y="93" width="2545" height="1215" key="com.intellij.history.integration.ui.views.FileHistoryDialog/-1920.0.1920.1020/0.0.2731.1400@0.0.2731.1400" timestamp="1600014180352" />
+  </component>
+</project>

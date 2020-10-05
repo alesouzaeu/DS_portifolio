@@ -1,6 +1,19 @@
 # happinesspredictor 
 **Deploy** *https://happinesspredictor.herokuapp.com*   
 
+## Bibliotecas utilizadas:
+
+    - import pandas as pd
+    - import numpy as np
+    - import matplotlib.pyplot as plt
+    - from sklearn.preprocessing import StandardScaler
+    - from sklearn.ensemble import RandomForestClassifier
+    - from sklearn.metrics import confusion_matrix
+    - from sklearn.metrics import classification_report,f1_score,precision_score,average_precision_score,recall_score,accuracy_score
+    - from sklearn.metrics import roc_curve, roc_auc_score
+    - from sklearn.linear_model import LogisticRegression
+    - import pickle
+    - Streamlit
 
 ## O que é World Happiness Report?
 
@@ -14,7 +27,6 @@ O Happines Report é uma pesquisa histórica sobre o índice de felicidade globa
 - Generosity;
 - Etc...
 
-
 ### Etapa 1 - O problema
 
 Com o intuito de criar um modelo preditivo capaz de prever a **Felicidade** ou **Infelicidade** de determinada região e quais as principais condições que afetarão seus resultados futuros. Este piloto pode ser utilizado em pesquisas de clima organizacional e de sentimento de uma determinada sociedade.
@@ -24,7 +36,6 @@ Com o intuito de criar um modelo preditivo capaz de prever a **Felicidade** ou *
 Os datasets utilizados neste estudo podem ser encontrados no kaggle, por meio do link abaixo:
 https://www.kaggle.com/unsdsn/world-happiness
 
-Para a importação, utilizamos
 
 ### Etapa 3 - Preparação dos dados
 

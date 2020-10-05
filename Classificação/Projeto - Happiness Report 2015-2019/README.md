@@ -33,14 +33,17 @@ Para preparar os dados, utilizou-se métodos e funções que permitiram:
 2. Unificar as tabelas, agrupando-as por região, atribuindo assim média dos atributos a cada coluna.
  
 ### Etapa 4 - Análise exploratória
-O próximo passo, após a manipulação dos dados, foi analisar o dataframe quanto aos seguintes quesitos:
+O próximo passo, após a manipulação dos dados, foi analisar o dataframe quanto aos seguintes quesitos para:
 1. Identificar o tipo de cada categoria;
-2. Perceber se existem dados nulos no dataframe. 
-3. Exibir a descrição estatística dos dados.
-4. Definir a variável binária de saída, com base na nota de felicidade. (Happiness Score)
-5. Analisara dispersão de cada variável a ser utilizada. 
-6. Identificar quais possuem alguma relação.
-7. Visualizar a distribuição da quantidade de regiões **Felizes** X **Infelizes**
+2. Perceber se existem dados nulos no dataframe; 
+3. Exibir a descrição estatística dos dados;
+4. Definir a variável binária de saída, com base na nota de felicidade (Happiness Score);
+5. Visualizar a distribuição da quantidade de regiões **Felizes** X **Infelizes**;
+6. Identificar quais possuem alguma relação;
+7. perceber a dispersão de cada variável a ser utilizada; 
+8. Explorar as variáveis a serem trabalhadas no modelo, para identificar outliers frente a variável de saída;
+9. Obter insights sociais diante das visualizações.
+
 
 
 ### Etapa 5 - Modelagem 

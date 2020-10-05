@@ -43,8 +43,7 @@ O próximo passo, após a manipulação dos dados, foi analisar o dataframe quan
 7. perceber a dispersão de cada variável a ser utilizada; 
 8. Explorar as variáveis a serem trabalhadas no modelo, para identificar outliers frente a variável de saída;
 9. Obter insights sociais diante das visualizações.
-
-
+10.Transformar variáveis categóricas em numéricas.
 
 ### Etapa 5 - Modelagem 
 

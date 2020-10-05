@@ -46,8 +46,20 @@ O próximo passo, após a manipulação dos dados, foi analisar o dataframe quan
 10.Transformar variáveis categóricas em numéricas.
 
 ### Etapa 5 - Modelagem 
+1. Importação e implementação do modelo de classificação RandomForest;
+2. Métricas de avaliação do modelo RandomForest;
+3. Importação e implementação de um segundo modelo. Logistic Regression;
+4. Métricas de avaliação do modelo Logistic Regression;
+5. Análise comparativa entre os modelos. (Curva ROC)
 
 
 ### Etapa 6 - Comunicação e visualização
 
+1. Elaboração de apresentação do processo de Data Science.
+
 ### Etapa 7 - Implementação e manutenção
+
+# Deployment do modelo com melhor desempenho - RandomForest.
+
+Utilizou-se o Streamlit e Heroku para implementar este deploy.
+**Deploy** *https://happinesspredictor.herokuapp.com*   
